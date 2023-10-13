@@ -1,13 +1,13 @@
-import './App.css';
+import { Provider } from "react-redux";
+import Body from "./components/Body";
+import appStore from "./utils/appStore";
 
 function App() {
   return (
-    <div className="text-3xl font-bold text-center py-11">
-      <h1>Netflix GPT</h1>
-    </div>
+    <Provider store={appStore}>
+      <Body />
+    </Provider>
   );
 }
 
 export default App;
-
-//testing
