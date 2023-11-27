@@ -1,3 +1,13 @@
+Screenshots of the Netflix Website. 
+<img width="1353" alt="image" src="https://github.com/anveshchidura/Netflix_GPT/assets/31155837/6eb333b7-77a2-4423-9e19-5aeafa5d2c9a">
+
+<img width="1353" alt="image" src="https://github.com/anveshchidura/Netflix_GPT/assets/31155837/091c47f3-d15d-4ba3-b0b1-bd65cefe5b3e">
+
+<img width="1353" alt="image" src="https://github.com/anveshchidura/Netflix_GPT/assets/31155837/c2479a0c-10d5-4e66-8087-f28057eaa8fa">
+
+<img width="1353" alt="image" src="https://github.com/anveshchidura/Netflix_GPT/assets/31155837/98ba453e-3ed3-41ec-aebe-f5ca5953c891">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
